@@ -3,7 +3,7 @@
 <p align="center">
 Nesse desafio, você deverá recriar uma aplicação, a partir de um layout, para treinar o que aprendeu até agora no Stage 02. <br/>
 
-<img alt="layout 01" src="/imagens/layout01.png" width="100%">
+<img alt="layout01" src="/imagens/layout01.png" width="100%">
 
 ## 🚀 Tecnologias
 
